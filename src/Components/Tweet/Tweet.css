@@ -1,0 +1,21 @@
+.card{
+    height:200px;
+    margin:5px;
+    width:500px;
+    background-color: rgba(16, 139, 196, 0.596);
+
+}
+
+.header{
+    height:25%;    
+}
+
+.body{
+    height:50%;
+}
+
+.footer{
+    height:25%;
+    
+}
+

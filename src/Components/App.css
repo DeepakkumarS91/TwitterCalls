@@ -1,0 +1,25 @@
+.App {
+  height:100vh;
+  text-align: center;
+}
+
+.Head {
+ 
+  background-color: rgba(16, 139, 196, 0.596);
+  height:20%;
+ }
+
+ .Body{
+  
+   height:80%;
+   width:100%;
+   background-color:deepskyblue;
+   overflow: auto;
+ }
+
+ 
+
+
+
+
+
